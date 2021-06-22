@@ -1,7 +1,7 @@
 # Lahman_Baseball_Analysis
 
 
-
+Collaborators: Preston Babb and Scott Moore
 
 Lahman Baseball Database Exercise
 - this data has been made available [online](http://www.seanlahman.com/baseball-archive/statistics/) by Sean Lahman
